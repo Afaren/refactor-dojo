@@ -1,0 +1,3 @@
+[submodule "movie-rental-customer"]
+	path = movie-rental-customer
+	url = git@github.com:Afaren/movie-rental-customer.git
